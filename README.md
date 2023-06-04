@@ -80,6 +80,9 @@ You will have to delete any rows from the reviews table associated with this use
 https://drawsql.app/teams/tom-24/diagrams/prac
 
 
+![Screenshot (175)](https://github.com/TomKambale/Phase-3-Products/assets/126792766/1d1f0857-4ce7-4173-9e5f-5ad7a0e30cf4)
+
+
 
 
 
