@@ -4,7 +4,7 @@ class Product < ActiveRecord::Base
 
     def leave_review(user, star_rating, comment)
         reviews.create(user: user, star_rating: star_rating, comment: comment)
-      end
+    end
 
     def print_all_reviews
         reviews.each do |review|
@@ -14,5 +14,5 @@ class Product < ActiveRecord::Base
     
       def average_rating
         reviews.average(:star_rating)
-      end
+    end
 end
